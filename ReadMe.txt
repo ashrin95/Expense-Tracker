@@ -1,0 +1,1 @@
+Go to the appsettings.json change the Server Name with Your Server Name Then open Nuget Packege Manager and write update-database press Enter button and run the Project.
